@@ -1,7 +1,11 @@
-numpy
 pandas
-matplotlib
+numpy
+scikit-learn
 seaborn
+matplotlib
+scipy
+unidecode
+psutil
+dash
+dash-bootstrap-components
 plotly
-statsmodels
-streamlit
