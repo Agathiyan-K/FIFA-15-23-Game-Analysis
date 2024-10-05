@@ -17,7 +17,8 @@ import streamlit as st
 import plotly.express as px
 
 # Load the dataset (replace with the actual file path)
-file_path = 'path/to/your/data.csv'  # Update with actual file path
+file_id = '1ZV-5OFM6glnv9Eji_0mb7CyvPGjR_EPg'
+file_path = f'https://drive.google.com/uc?id={file_id}'
 df = pd.read_csv(file_path)
 
 # Drop unnecessary columns
